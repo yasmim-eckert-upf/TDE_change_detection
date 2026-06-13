@@ -1,0 +1,27 @@
+# ─── Dataset (baixar separadamente — ver README) ───
+LEVIR_CD/
+
+# ─── Modelos treinados (binários grandes) ───
+# Hospedar via Git LFS ou link externo (Drive / GitHub Releases)
+*.pt
+
+# ─── Ambiente virtual ───
+venv/
+env/
+.venv/
+
+# ─── Cache do Python ───
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ─── Jupyter ───
+.ipynb_checkpoints/
+
+# ─── Gradio (cache e certificados temporários) ───
+.gradio/
+*.pem
+
+# ─── Sistema operacional ───
+.DS_Store
+Thumbs.db
