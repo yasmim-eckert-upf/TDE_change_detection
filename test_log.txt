@@ -1,1 +1,0 @@
-Loss: 0.1124 | IoU: 0.6918 | Acc: 0.9808 | Precision: 0.8148 | Recall: 0.8215 | Dice: 0.8171

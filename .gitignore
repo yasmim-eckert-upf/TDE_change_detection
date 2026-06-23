@@ -4,6 +4,8 @@ LEVIR_CD/
 # ─── Modelos treinados (binários grandes) ───
 # Hospedar via Git LFS ou link externo (Drive / GitHub Releases)
 *.pt
+*.txt
+*.png
 
 # ─── Ambiente virtual ───
 venv/
