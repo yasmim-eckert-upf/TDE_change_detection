@@ -9,7 +9,7 @@ Solução de visão computacional que identifica, de forma automática, **o que 
 
 ## Demonstração em vídeo
 
-📹 **[Assista à demonstração da ferramenta aqui](demo.webm)**
+📹 **[Assista à demonstração da ferramenta aqui](https://app.betterbugs.io/session/6a3ae85cd3521c318341827a?openedDevTab=info&openedNetworkSubTab=all&openedConsoleSubTab=all&openedStepsSubTab=all)**
 
 ## Motivação e aplicabilidade
 
