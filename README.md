@@ -7,6 +7,10 @@ Solução de visão computacional que identifica, de forma automática, **o que 
 - Fernanda Ihjaz
 - Yasmim Eckert Ferri
 
+## Demonstração em vídeo
+
+📹 **[Assista à demonstração da ferramenta aqui](demo.webm)**
+
 ## Motivação e aplicabilidade
 
 A detecção automática de mudanças (*change detection*) a partir de imagens de satélite tem aplicações diretas em:
